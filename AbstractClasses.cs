@@ -1,4 +1,6 @@
-﻿internal abstract class Animal
+﻿
+//abstract class can't be instantiated, only inherited
+internal abstract class Animal
 {
     public abstract void AnimalSound();
 
